@@ -1,14 +1,14 @@
 # WikiLingua: A Multilingual Abstractive Summarization Dataset #
 
 **UPDATE:\
-We have created new Train/Test splits for all 17 languages that can be downloaded [here](https://drive.google.com/file/d/1sTCB5NDPq6vUOlxR29DbvSssErvXLD1d/view?usp=sharing). These splits were created to ensure that there is no (document, summary) pair overlap across any of the 18 languages so that they can be safely used for multilingual evaluations.**
+We have created new Train/Test splits for all 17 languages that can be downloaded [here](https://huggingface.co/datasets/esdurmus/wiki_lingua). These splits were created to ensure that there is no (document, summary) pair overlap across any of the 18 languages so that they can be safely used for multilingual evaluations.**
 
 This repo contains dataset introduced in the following paper: 
 
 [WikiLingua: A New Benchmark Dataset for Multilingual Abstractive
 Summarization](https://arxiv.org/abs/2010.03093) 
 
-Download the dataset using [this link](https://drive.google.com/file/d/1sTCB5NDPq6vUOlxR29DbvSssErvXLD1d/view?usp=sharing).
+Download the dataset using [this link](https://huggingface.co/datasets/esdurmus/wiki_lingua).
 
 ## Reference ##
 Please cite the following paper: 
